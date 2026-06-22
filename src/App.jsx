@@ -112,6 +112,12 @@ function Nav({ lang, setLang, t }) {
 
 /* ---------- Página principal ---------- */
 function Home({ t }) {
+  useEffect(() => {
+    document.title = "untalDouglas — IT Director · IT Solutions Architect";
+    document.querySelector('meta[name="description"]')
+      ?.setAttribute("content", t.hero.sub);
+  }, [t]);
+
   return (
     <main>
       <div className="wrap">

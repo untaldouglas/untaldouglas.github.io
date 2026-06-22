@@ -2,7 +2,7 @@ export const content = {
   es: {
     nav: { projects: "Proyectos", services: "Servicios", journey: "Trayectoria", recognition: "Reconocimiento", blog: "Blog", contact: "Contacto" },
     hero: {
-      eyebrow: "IT Director · AI Solutions Architect",
+      eyebrow: "IT Director · IT Solutions Architect",
       titleA: "Treinta años operando TI seria.",
       titleB: "Hoy, construyendo los ",
       titleEm: "agentes",
@@ -116,7 +116,7 @@ export const content = {
   en: {
     nav: { projects: "Projects", services: "Services", journey: "Journey", recognition: "Recognition", blog: "Blog", contact: "Contact" },
     hero: {
-      eyebrow: "IT Director · AI Solutions Architect",
+      eyebrow: "IT Director · IT Solutions Architect",
       titleA: "Thirty years running serious IT.",
       titleB: "Now building the ",
       titleEm: "agents",

@@ -40,6 +40,13 @@ function Post({ slug, posts, t }) {
 
   useEffect(() => {
     if (!meta) return;
+    document.title = `${meta.title} — untalDouglas`;
+    document.querySelector('meta[name="description"]')
+      ?.setAttribute("content", meta.summary);
+  }, [meta]);
+
+  useEffect(() => {
+    if (!meta) return;
     fetch(`${BASE}posts/${meta.file}`)
       .then((r) => (r.ok ? r.text() : Promise.reject()))
       .then((md) => setHtml(marked.parse(md)))
@@ -70,6 +77,14 @@ function Post({ slug, posts, t }) {
 
 export function Blog({ route, t }) {
   const posts = usePosts();
+
+  useEffect(() => {
+    if (route.name !== "blog") return;
+    document.title = `${t.title} — untalDouglas`;
+    document.querySelector('meta[name="description"]')
+      ?.setAttribute("content", t.sub);
+  }, [route.name, t]);
+
   return (
     <section>
       {route.name === "blog" && (
