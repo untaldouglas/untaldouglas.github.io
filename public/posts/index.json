@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "bienvenida-nuevo-sitio",
+    "title": "Un sitio nuevo para una nueva etapa",
+    "date": "2026-06-11",
+    "lang": "es",
+    "summary": "Por qué rediseñé mi presencia web y qué encontrarás aquí: gobernanza de TI, IA aplicada y decisiones tecnológicas desde la práctica real.",
+    "file": "bienvenida-nuevo-sitio.md"
+  },
+  {
+    "slug": "por-que-agentes",
+    "title": "Por qué agentes: lo que 30 años de operaciones me enseñaron sobre IA",
+    "date": "2026-06-11",
+    "lang": "es",
+    "summary": "Los agentes de IA no son magia: son la evolución natural de lo que TI siempre ha buscado — sistemas que operan, reportan y mejoran.",
+    "file": "por-que-agentes.md"
+  },
+  {
+    "slug": "cost-benefit-technology",
+    "title": "Technology-agnostic by principle: how I choose between proprietary and open source",
+    "date": "2026-06-11",
+    "lang": "en",
+    "summary": "Neither evangelism nor vendor loyalty: a cost-benefit framework refined over two decades of platform decisions on real budgets.",
+    "file": "cost-benefit-technology.md"
+  },
+  {
+    "slug": "reciclaje-habilidades-era-ia",
+    "title": "Reciclaje y perfeccionamiento de habilidades en la era de la IA",
+    "date": "2025-11-06",
+    "lang": "es",
+    "summary": "La IA está remodelando industrias a un ritmo sin precedentes: cómo identificar brechas de habilidades y construir una fuerza laboral resiliente.",
+    "file": "reciclaje-habilidades-era-ia.md"
+  },
+  {
+    "slug": "django-postgres-vscode-docker",
+    "title": "Configurar entorno de desarrollo para Django y Postgres con VSCode plugins",
+    "date": "2023-02-16",
+    "lang": "es",
+    "summary": "Programar aplicaciones Django sin instalar Python en tu máquina: el entorno completo vive en Docker, orquestado desde VS Code.",
+    "file": "django-postgres-vscode-docker.md"
+  },
+  {
+    "slug": "metodologias-blended-virtuales",
+    "title": "Metodologías y herramientas sugeridas para potenciar servicios formativos Blended y Virtuales",
+    "date": "2022-11-15",
+    "lang": "es",
+    "summary": "De una consulta informal a un esquema completo: cómo definir el problema de negocio antes de elegir LMS, videoconferencia y editores de contenido.",
+    "file": "metodologias-blended-virtuales.md"
+  },
+  {
+    "slug": "propuesta-modernizacion-digital",
+    "title": "Propuesta de Modernización Digital",
+    "date": "2022-07-17",
+    "lang": "es",
+    "summary": "Un framework con roadmap a 3 años en lugar de un plan estratégico rígido: las cuatro arquitecturas que toda transformación digital debe tocar.",
+    "file": "propuesta-modernizacion-digital.md"
+  },
+  {
+    "slug": "instalar-moodle-kubeapps-minikube-helm",
+    "title": "Instalar Moodle 3.11.7 con Kubeapps, minikube y Helm",
+    "date": "2022-07-17",
+    "lang": "es",
+    "summary": "Moodle y Postgres desplegados en Kubernetes local con Charts de Helm gestionados desde Kubeapps — laboratorio completo en una laptop.",
+    "file": "instalar-moodle-kubeapps-minikube-helm.md"
+  },
+  {
+    "slug": "instalar-frappe-erpnext-docker",
+    "title": "Instalar Frappe y ERPNext usando Docker developer mode en Linux y Mac",
+    "date": "2021-09-20",
+    "lang": "es",
+    "summary": "Entorno de desarrollo completo de Frappe/ERPNext en containers con edición bidireccional host ⇄ container desde VS Code.",
+    "file": "instalar-frappe-erpnext-docker.md"
+  },
+  {
+    "slug": "instalar-elixir-phoenix-ubuntu",
+    "title": "Guía de instalación y configuración de Elixir Phoenix en Linux Pop 21 o Ubuntu 20.04",
+    "date": "2021-09-19",
+    "lang": "es",
+    "summary": "Elixir desde los repositorios oficiales, Phoenix, NodeJS y Postgres: del cero a una app corriendo en localhost:4000 en seis pasos.",
+    "file": "instalar-elixir-phoenix-ubuntu.md"
+  },
+  {
+    "slug": "clases-concurrentes",
+    "title": "Clases concurrentes: una propuesta para el eventual regreso a clases presenciales",
+    "date": "2020-10-16",
+    "lang": "es",
+    "summary": "Audiencia presencial y virtual en simultáneo, con estructura, bitácora y metodologías como Flipped Classroom — eficiente en costo y funcional para docentes y alumnos.",
+    "file": "clases-concurrentes.md"
+  },
+  {
+    "slug": "invierte-en-tu-data",
+    "title": "Hoy es el momento de invertir para guardar tu recurso informático más valioso: tu data",
+    "date": "2020-04-28",
+    "lang": "es",
+    "summary": "Saca respaldo del respaldo: principios y herramientas concretas para proteger documentos y fotografías, en lo personal y lo profesional.",
+    "file": "invierte-en-tu-data.md"
+  },
+  {
+    "slug": "operacion-remota-servicios-negocio",
+    "title": "Manteniendo la operación remota de los Servicios de Negocio: la historia de un informático",
+    "date": "2020-04-27",
+    "lang": "es",
+    "summary": "El bosquejo de la línea de decisión que implementamos cuando el Coronavirus llegó como tsunami: continuidad de negocio puesta a prueba en la vida real.",
+    "file": "operacion-remota-servicios-negocio.md"
+  }
+]
